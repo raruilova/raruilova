@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raruilova" alt="raruilova" /></a> </p>
 
-- 🌱 I’m currently learning **Redux and Python with FastApi**
+- 🌱 I’m currently learning **FastApi**
 
 - 👨‍💻 All of my projects are available at [https://raruilova.vercel.app/](https://raruilova.vercel.app/)
 
